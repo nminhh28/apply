@@ -233,7 +233,6 @@ footer p {
     outline: none;
 }
 
-/* Hide the original text after clicking */
 .submit-btn:focus span {
     display: none;
 }
