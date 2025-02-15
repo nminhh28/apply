@@ -66,6 +66,7 @@ nav ul li .active {
     background: #111;
     padding: 30px;
     margin: 20px auto;
+    max-width: 300px;
 }
 
 h2 {
